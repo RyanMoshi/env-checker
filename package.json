@@ -1,0 +1,16 @@
+{
+  "name": "env-checker",
+  "version": "1.0.0",
+  "description": "Validate required environment variables",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "keywords": [
+    "env",
+    "checker"
+  ],
+  "author": "RyanMoshi",
+  "license": "MIT"
+}
